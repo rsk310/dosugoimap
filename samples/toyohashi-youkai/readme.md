@@ -4,4 +4,6 @@
 - 妖怪画像 100枚（.stamp/）
 - 現地写真 100枚（.photo/)
 
+入手元：https://opendata-east-mikawa.jp/node/540
+
 以上
